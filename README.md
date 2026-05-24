@@ -1,4 +1,5 @@
  ShopZone — Premium Creative E-Commerce Experience
+ Your site is live at https://emannkhalled.github.io/store_react/
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)](https://www.framer.com/motion/)
