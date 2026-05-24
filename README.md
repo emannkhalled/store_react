@@ -68,7 +68,7 @@ npm run build
 
 ---
 
-## 📸 Design Highlights
+ 📸 Design Highlights
 
 > [!NOTE]
 > **Quiet Luxury Design Philosophy**
@@ -93,4 +93,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-Developed with 💜 and absolute attention to detail by [Eman Khaled](https://github.com/emankhaled).
+Developed with 💜 and absolute attention to detail by [Eman Khaled](https://github.com/emannkhalled).
