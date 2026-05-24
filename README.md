@@ -1,4 +1,4 @@
-# 🌌 ShopZone — Premium Creative E-Commerce Experience
+ ShopZone — Premium Creative E-Commerce Experience
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)](https://www.framer.com/motion/)
@@ -9,14 +9,14 @@ Welcome to **ShopZone**, a breathtaking, highly creative React e-commerce applic
 
 ---
 
-## ✨ Key Features
+ Key Features
 
-### 🎨 1. Cosmic Aurora & Soft Slate Design System
+1. Cosmic Aurora & Soft Slate Design System
 - **Soothing Color Palette**: Dynamically toggle between an elegant, off-white **Light Theme** (featuring Slate Violet and Royal Indigo) and a deep, comforting **Dark Theme** (featuring Slate Blue, Indigo, and soft ambient glows).
 - **Advanced Glassmorphism**: Cards and controls built with soft frosted-glass backdrops (`backdrop-filter: blur(24px)`), smooth border transitions, and delicate drop-shadow flows.
 - **Atmospheric Visuals**: STARFIELD interactive particles, gorgeous glowing badges, and custom aesthetic details that feel alive yet incredibly clean.
 
-### 🛍️ 2. Seamless Onboarding & Interactive Pages
+ 2. Seamless Onboarding & Interactive Pages
 - **Cinematic Splash Loader**: A stunning, requestAnimationFrame-driven smooth loading transition featuring a custom glowing **vector SVG Shopping Bag logo** with a pulsating star.
 - **Home Showcase**: Engaging hero slider, visual product category circles featuring vibrant high-resolution photography, and an infinite horizontal promotional marquee.
 - **Dynamic Product Browsing**: Seamless real-time search, interactive category filtering, list/grid layout toggle, and smooth loading skeletons.
@@ -25,7 +25,7 @@ Welcome to **ShopZone**, a breathtaking, highly creative React e-commerce applic
 
 ---
 
-## 🛠️ Technology Stack
+ Technology Stack
 
 - **Frontend Core**: [React.js](https://reactjs.org/) (Hooks, Context, Functional Architecture)
 - **Styling & Theme**: Vanilla CSS Custom Properties (Variables) & Utility classes for modular, state-driven styling
@@ -37,7 +37,7 @@ Welcome to **ShopZone**, a breathtaking, highly creative React e-commerce applic
 
 ---
 
-## 🚀 Installation & Getting Started
+ Installation & Getting Started
 
 Follow these steps to set up the project locally on your system:
 
@@ -83,13 +83,13 @@ npm run build
 
 ---
 
-## 🤝 Contributing
+Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/shopzone-ecommerce/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/emannkhalled/shopzone-ecommerce/issues) if you want to contribute.
 
 ---
 
-## 📝 License
+ License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
